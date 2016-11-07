@@ -1,0 +1,11 @@
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\chromedriver.exe
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\IEDriverServer.exe
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Config.config
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Appulate.TestModel.dll.config
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Appulate.TestModel.dll
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Appulate.TestModel.pdb
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\Appulate.TestModel\obj\Debug\Appulate.TestModel.csprojResolveAssemblyReference.cache
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\Appulate.TestModel\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\Appulate.TestModel\obj\Debug\Appulate.TestModel.csproj.ResolveComReference.cache
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\Appulate.TestModel\obj\Debug\Appulate.TestModel.dll
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\Appulate.TestModel\obj\Debug\Appulate.TestModel.pdb

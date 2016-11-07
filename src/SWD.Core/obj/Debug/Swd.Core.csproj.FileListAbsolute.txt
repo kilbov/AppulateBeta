@@ -1,0 +1,9 @@
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\chromedriver.exe
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\IEDriverServer.exe
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Config.config
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Swd.Core.dll.config
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Swd.Core.dll
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\bin\Swd.Core.pdb
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\SWD.Core\obj\Debug\Swd.Core.csprojResolveAssemblyReference.cache
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\SWD.Core\obj\Debug\Swd.Core.dll
+C:\Users\kilbov\Documents\Visual Studio 2015\Projects\UnitTestAppulateTest\AppulateBeta\src\SWD.Core\obj\Debug\Swd.Core.pdb
